@@ -3,8 +3,8 @@
    border:10px solid #5651B4;
     border-radius: 10px; 
   }
-  body {
-   background-color:green
+  .body2 {
+   background-color:blue;
   }
   .center-image{
    text-align:center;
@@ -15,4 +15,7 @@
   .center-text
   {
    text-align:center;
+  }
+.body1 {
+   background-color:green;
   }
